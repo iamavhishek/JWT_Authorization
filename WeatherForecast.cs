@@ -1,4 +1,4 @@
-namespace JWTAuthorization
+namespace WebApplication1
 {
     public class WeatherForecast
     {
